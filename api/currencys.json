@@ -1,0 +1,334 @@
+[
+  {
+    "AED": "ARS",
+    "United Arab Emirates Dirham": "Argentine Peso"
+  },
+  {
+    "AED": "AUD",
+    "United Arab Emirates Dirham": "Australian Dollar"
+  },
+  {
+    "AED": "BDT",
+    "United Arab Emirates Dirham": "Bangladeshi Taka"
+  },
+  {
+    "AED": "BGN",
+    "United Arab Emirates Dirham": "Bulgarian Lev"
+  },
+  {
+    "AED": "BHD",
+    "United Arab Emirates Dirham": "Bahraini Dinar"
+  },
+  {
+    "AED": "BND",
+    "United Arab Emirates Dirham": "Brunei Dollar"
+  },
+  {
+    "AED": "BOB",
+    "United Arab Emirates Dirham": "Bolivian Boliviano"
+  },
+  {
+    "AED": "BRL",
+    "United Arab Emirates Dirham": "Brazilian Real"
+  },
+  {
+    "AED": "BWP",
+    "United Arab Emirates Dirham": "Botswanan Pula"
+  },
+  {
+    "AED": "BYN",
+    "United Arab Emirates Dirham": "Belarusian Ruble"
+  },
+  {
+    "AED": "CAD",
+    "United Arab Emirates Dirham": "Canadian Dollar"
+  },
+  {
+    "AED": "CHF",
+    "United Arab Emirates Dirham": "Swiss Franc"
+  },
+  {
+    "AED": "CLP",
+    "United Arab Emirates Dirham": "Chilean Peso"
+  },
+  {
+    "AED": "CNY",
+    "United Arab Emirates Dirham": "Chinese Yuan"
+  },
+  {
+    "AED": "COP",
+    "United Arab Emirates Dirham": "Colombian Peso"
+  },
+  {
+    "AED": "CRC",
+    "United Arab Emirates Dirham": "Costa Rican Colón"
+  },
+  {
+    "AED": "CZK",
+    "United Arab Emirates Dirham": "Czech Koruna"
+  },
+  {
+    "AED": "DKK",
+    "United Arab Emirates Dirham": "Danish Krone"
+  },
+  {
+    "AED": "DOP",
+    "United Arab Emirates Dirham": "Dominican Peso"
+  },
+  {
+    "AED": "DZD",
+    "United Arab Emirates Dirham": "Algerian Dinar"
+  },
+  {
+    "AED": "EGP",
+    "United Arab Emirates Dirham": "Egyptian Pound"
+  },
+  {
+    "AED": "EUR",
+    "United Arab Emirates Dirham": "Euro"
+  },
+  {
+    "AED": "FJD",
+    "United Arab Emirates Dirham": "Fijian Dollar"
+  },
+  {
+    "AED": "GBP",
+    "United Arab Emirates Dirham": "British Pound Sterling"
+  },
+  {
+    "AED": "GEL",
+    "United Arab Emirates Dirham": "Georgian Lari"
+  },
+  {
+    "AED": "GHS",
+    "United Arab Emirates Dirham": "Ghanaian Cedi"
+  },
+  {
+    "AED": "HKD",
+    "United Arab Emirates Dirham": "Hong Kong Dollar"
+  },
+  {
+    "AED": "HRK",
+    "United Arab Emirates Dirham": "Croatian Kuna"
+  },
+  {
+    "AED": "HUF",
+    "United Arab Emirates Dirham": "Hungarian Forint"
+  },
+  {
+    "AED": "IDR",
+    "United Arab Emirates Dirham": "Indonesian Rupiah"
+  },
+  {
+    "AED": "ILS",
+    "United Arab Emirates Dirham": "Israeli New Sheqel"
+  },
+  {
+    "AED": "INR",
+    "United Arab Emirates Dirham": "Indian Rupee"
+  },
+  {
+    "AED": "IQD",
+    "United Arab Emirates Dirham": "Iraqi Dinar"
+  },
+  {
+    "AED": "JOD",
+    "United Arab Emirates Dirham": "Jordanian Dinar"
+  },
+  {
+    "AED": "JPY",
+    "United Arab Emirates Dirham": "Japanese Yen"
+  },
+  {
+    "AED": "KES",
+    "United Arab Emirates Dirham": "Kenyan Shilling"
+  },
+  {
+    "AED": "KRW",
+    "United Arab Emirates Dirham": "South Korean Won"
+  },
+  {
+    "AED": "KWD",
+    "United Arab Emirates Dirham": "Kuwaiti Dinar"
+  },
+  {
+    "AED": "KZT",
+    "United Arab Emirates Dirham": "Kazakhstani Tenge"
+  },
+  {
+    "AED": "LBP",
+    "United Arab Emirates Dirham": "Lebanese Pound"
+  },
+  {
+    "AED": "LKR",
+    "United Arab Emirates Dirham": "Sri Lankan Rupee"
+  },
+  {
+    "AED": "LTL",
+    "United Arab Emirates Dirham": "Lithuanian Litas"
+  },
+  {
+    "AED": "MAD",
+    "United Arab Emirates Dirham": "Moroccan Dirham"
+  },
+  {
+    "AED": "MMK",
+    "United Arab Emirates Dirham": "Myanma Kyat"
+  },
+  {
+    "AED": "MOP",
+    "United Arab Emirates Dirham": "Macanese Pataca"
+  },
+  {
+    "AED": "MUR",
+    "United Arab Emirates Dirham": "Mauritian Rupee"
+  },
+  {
+    "AED": "MXN",
+    "United Arab Emirates Dirham": "Mexican Peso"
+  },
+  {
+    "AED": "MYR",
+    "United Arab Emirates Dirham": "Malaysian Ringgit"
+  },
+  {
+    "AED": "NAD",
+    "United Arab Emirates Dirham": "Namibian Dollar"
+  },
+  {
+    "AED": "NGN",
+    "United Arab Emirates Dirham": "Nigerian Naira"
+  },
+  {
+    "AED": "NIO",
+    "United Arab Emirates Dirham": "Nicaraguan Córdoba"
+  },
+  {
+    "AED": "NOK",
+    "United Arab Emirates Dirham": "Norwegian Krone"
+  },
+  {
+    "AED": "NPR",
+    "United Arab Emirates Dirham": "Nepalese Rupee"
+  },
+  {
+    "AED": "NZD",
+    "United Arab Emirates Dirham": "New Zealand Dollar"
+  },
+  {
+    "AED": "OMR",
+    "United Arab Emirates Dirham": "Omani Rial"
+  },
+  {
+    "AED": "PEN",
+    "United Arab Emirates Dirham": "Peruvian Nuevo Sol"
+  },
+  {
+    "AED": "PHP",
+    "United Arab Emirates Dirham": "Philippine Peso"
+  },
+  {
+    "AED": "PKR",
+    "United Arab Emirates Dirham": "Pakistani Rupee"
+  },
+  {
+    "AED": "PLN",
+    "United Arab Emirates Dirham": "Polish Zloty"
+  },
+  {
+    "AED": "PYG",
+    "United Arab Emirates Dirham": "Paraguayan Guarani"
+  },
+  {
+    "AED": "QAR",
+    "United Arab Emirates Dirham": "Qatari Rial"
+  },
+  {
+    "AED": "RON",
+    "United Arab Emirates Dirham": "Romanian Leu"
+  },
+  {
+    "AED": "RSD",
+    "United Arab Emirates Dirham": "Serbian Dinar"
+  },
+  {
+    "AED": "RUB",
+    "United Arab Emirates Dirham": "Russian Ruble"
+  },
+  {
+    "AED": "SAR",
+    "United Arab Emirates Dirham": "Saudi Riyal"
+  },
+  {
+    "AED": "SEK",
+    "United Arab Emirates Dirham": "Swedish Krona"
+  },
+  {
+    "AED": "SGD",
+    "United Arab Emirates Dirham": "Singapore Dollar"
+  },
+  {
+    "AED": "SVC",
+    "United Arab Emirates Dirham": "Salvadoran Colón"
+  },
+  {
+    "AED": "THB",
+    "United Arab Emirates Dirham": "Thai Baht"
+  },
+  {
+    "AED": "TND",
+    "United Arab Emirates Dirham": "Tunisian Dinar"
+  },
+  {
+    "AED": "TRY",
+    "United Arab Emirates Dirham": "Turkish Lira"
+  },
+  {
+    "AED": "TWD",
+    "United Arab Emirates Dirham": "New Taiwan Dollar"
+  },
+  {
+    "AED": "TZS",
+    "United Arab Emirates Dirham": "Tanzanian Shilling"
+  },
+  {
+    "AED": "UAH",
+    "United Arab Emirates Dirham": "Ukrainian Hryvnia"
+  },
+  {
+    "AED": "UGX",
+    "United Arab Emirates Dirham": "Ugandan Shilling"
+  },
+  {
+    "AED": "USD",
+    "United Arab Emirates Dirham": "US Dollar"
+  },
+  {
+    "AED": "UYU",
+    "United Arab Emirates Dirham": "Uruguayan Peso"
+  },
+  {
+    "AED": "UZS",
+    "United Arab Emirates Dirham": "Uzbekistan Som"
+  },
+  {
+    "AED": "VEF",
+    "United Arab Emirates Dirham": "Venezuelan Bolívar (2008-2018)"
+  },
+  {
+    "AED": "VES",
+    "United Arab Emirates Dirham": "Venezuelan Bolívar"
+  },
+  {
+    "AED": "VND",
+    "United Arab Emirates Dirham": "Vietnamese Dong"
+  },
+  {
+    "AED": "XOF",
+    "United Arab Emirates Dirham": "CFA Franc BCEAO"
+  },
+  {
+    "AED": "ZAR",
+    "United Arab Emirates Dirham": "South African Rand"
+  }
+]
