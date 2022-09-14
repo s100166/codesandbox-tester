@@ -11,7 +11,7 @@ app.get("/", (req, res) => {
 })
 
 app.get(PATH.CURRENCYS, (req, res) => {
-    res.send(currencys);
+    res.status(200).send(currencys);
 })
 
 app.listen(PORT, () => {
