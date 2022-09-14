@@ -1,334 +1,338 @@
 [
   {
-    "AED": "ARS",
-    "United Arab Emirates Dirham": "Argentine Peso"
+    "code": "AED",
+    "name": "United Arab Emirates Dirham"
   },
   {
-    "AED": "AUD",
-    "United Arab Emirates Dirham": "Australian Dollar"
+    "code": "ARS",
+    "name": "Argentine Peso"
   },
   {
-    "AED": "BDT",
-    "United Arab Emirates Dirham": "Bangladeshi Taka"
+    "code": "AUD",
+    "name": "Australian Dollar"
   },
   {
-    "AED": "BGN",
-    "United Arab Emirates Dirham": "Bulgarian Lev"
+    "code": "BDT",
+    "name": "Bangladeshi Taka"
   },
   {
-    "AED": "BHD",
-    "United Arab Emirates Dirham": "Bahraini Dinar"
+    "code": "BGN",
+    "name": "Bulgarian Lev"
   },
   {
-    "AED": "BND",
-    "United Arab Emirates Dirham": "Brunei Dollar"
+    "code": "BHD",
+    "name": "Bahraini Dinar"
   },
   {
-    "AED": "BOB",
-    "United Arab Emirates Dirham": "Bolivian Boliviano"
+    "code": "BND",
+    "name": "Brunei Dollar"
   },
   {
-    "AED": "BRL",
-    "United Arab Emirates Dirham": "Brazilian Real"
+    "code": "BOB",
+    "name": "Bolivian Boliviano"
   },
   {
-    "AED": "BWP",
-    "United Arab Emirates Dirham": "Botswanan Pula"
+    "code": "BRL",
+    "name": "Brazilian Real"
   },
   {
-    "AED": "BYN",
-    "United Arab Emirates Dirham": "Belarusian Ruble"
+    "code": "BWP",
+    "name": "Botswanan Pula"
   },
   {
-    "AED": "CAD",
-    "United Arab Emirates Dirham": "Canadian Dollar"
+    "code": "BYN",
+    "name": "Belarusian Ruble"
   },
   {
-    "AED": "CHF",
-    "United Arab Emirates Dirham": "Swiss Franc"
+    "code": "CAD",
+    "name": "Canadian Dollar"
   },
   {
-    "AED": "CLP",
-    "United Arab Emirates Dirham": "Chilean Peso"
+    "code": "CHF",
+    "name": "Swiss Franc"
   },
   {
-    "AED": "CNY",
-    "United Arab Emirates Dirham": "Chinese Yuan"
+    "code": "CLP",
+    "name": "Chilean Peso"
   },
   {
-    "AED": "COP",
-    "United Arab Emirates Dirham": "Colombian Peso"
+    "code": "CNY",
+    "name": "Chinese Yuan"
   },
   {
-    "AED": "CRC",
-    "United Arab Emirates Dirham": "Costa Rican Colón"
+    "code": "COP",
+    "name": "Colombian Peso"
   },
   {
-    "AED": "CZK",
-    "United Arab Emirates Dirham": "Czech Koruna"
+    "code": "CRC",
+    "name": "Costa Rican Colón"
   },
   {
-    "AED": "DKK",
-    "United Arab Emirates Dirham": "Danish Krone"
+    "code": "CZK",
+    "name": "Czech Koruna"
   },
   {
-    "AED": "DOP",
-    "United Arab Emirates Dirham": "Dominican Peso"
+    "code": "DKK",
+    "name": "Danish Krone"
   },
   {
-    "AED": "DZD",
-    "United Arab Emirates Dirham": "Algerian Dinar"
+    "code": "DOP",
+    "name": "Dominican Peso"
   },
   {
-    "AED": "EGP",
-    "United Arab Emirates Dirham": "Egyptian Pound"
+    "code": "DZD",
+    "name": "Algerian Dinar"
   },
   {
-    "AED": "EUR",
-    "United Arab Emirates Dirham": "Euro"
+    "code": "EGP",
+    "name": "Egyptian Pound"
   },
   {
-    "AED": "FJD",
-    "United Arab Emirates Dirham": "Fijian Dollar"
+    "code": "EUR",
+    "name": "Euro"
   },
   {
-    "AED": "GBP",
-    "United Arab Emirates Dirham": "British Pound Sterling"
+    "code": "FJD",
+    "name": "Fijian Dollar"
   },
   {
-    "AED": "GEL",
-    "United Arab Emirates Dirham": "Georgian Lari"
+    "code": "GBP",
+    "name": "British Pound Sterling"
   },
   {
-    "AED": "GHS",
-    "United Arab Emirates Dirham": "Ghanaian Cedi"
+    "code": "GEL",
+    "name": "Georgian Lari"
   },
   {
-    "AED": "HKD",
-    "United Arab Emirates Dirham": "Hong Kong Dollar"
+    "code": "GHS",
+    "name": "Ghanaian Cedi"
   },
   {
-    "AED": "HRK",
-    "United Arab Emirates Dirham": "Croatian Kuna"
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
   },
   {
-    "AED": "HUF",
-    "United Arab Emirates Dirham": "Hungarian Forint"
+    "code": "HRK",
+    "name": "Croatian Kuna"
   },
   {
-    "AED": "IDR",
-    "United Arab Emirates Dirham": "Indonesian Rupiah"
+    "code": "HUF",
+    "name": "Hungarian Forint"
   },
   {
-    "AED": "ILS",
-    "United Arab Emirates Dirham": "Israeli New Sheqel"
+    "code": "IDR",
+    "name": "Indonesian Rupiah"
   },
   {
-    "AED": "INR",
-    "United Arab Emirates Dirham": "Indian Rupee"
+    "code": "ILS",
+    "name": "Israeli New Sheqel"
   },
   {
-    "AED": "IQD",
-    "United Arab Emirates Dirham": "Iraqi Dinar"
+    "code": "INR",
+    "name": "Indian Rupee"
   },
   {
-    "AED": "JOD",
-    "United Arab Emirates Dirham": "Jordanian Dinar"
+    "code": "IQD",
+    "name": "Iraqi Dinar"
   },
   {
-    "AED": "JPY",
-    "United Arab Emirates Dirham": "Japanese Yen"
+    "code": "JOD",
+    "name": "Jordanian Dinar"
   },
   {
-    "AED": "KES",
-    "United Arab Emirates Dirham": "Kenyan Shilling"
+    "code": "JPY",
+    "name": "Japanese Yen"
   },
   {
-    "AED": "KRW",
-    "United Arab Emirates Dirham": "South Korean Won"
+    "code": "KES",
+    "name": "Kenyan Shilling"
   },
   {
-    "AED": "KWD",
-    "United Arab Emirates Dirham": "Kuwaiti Dinar"
+    "code": "KRW",
+    "name": "South Korean Won"
   },
   {
-    "AED": "KZT",
-    "United Arab Emirates Dirham": "Kazakhstani Tenge"
+    "code": "KWD",
+    "name": "Kuwaiti Dinar"
   },
   {
-    "AED": "LBP",
-    "United Arab Emirates Dirham": "Lebanese Pound"
+    "code": "KZT",
+    "name": "Kazakhstani Tenge"
   },
   {
-    "AED": "LKR",
-    "United Arab Emirates Dirham": "Sri Lankan Rupee"
+    "code": "LBP",
+    "name": "Lebanese Pound"
   },
   {
-    "AED": "LTL",
-    "United Arab Emirates Dirham": "Lithuanian Litas"
+    "code": "LKR",
+    "name": "Sri Lankan Rupee"
   },
   {
-    "AED": "MAD",
-    "United Arab Emirates Dirham": "Moroccan Dirham"
+    "code": "LTL",
+    "name": "Lithuanian Litas"
   },
   {
-    "AED": "MMK",
-    "United Arab Emirates Dirham": "Myanma Kyat"
+    "code": "MAD",
+    "name": "Moroccan Dirham"
   },
   {
-    "AED": "MOP",
-    "United Arab Emirates Dirham": "Macanese Pataca"
+    "code": "MMK",
+    "name": "Myanma Kyat"
   },
   {
-    "AED": "MUR",
-    "United Arab Emirates Dirham": "Mauritian Rupee"
+    "code": "MOP",
+    "name": "Macanese Pataca"
   },
   {
-    "AED": "MXN",
-    "United Arab Emirates Dirham": "Mexican Peso"
+    "code": "MUR",
+    "name": "Mauritian Rupee"
   },
   {
-    "AED": "MYR",
-    "United Arab Emirates Dirham": "Malaysian Ringgit"
+    "code": "MXN",
+    "name": "Mexican Peso"
   },
   {
-    "AED": "NAD",
-    "United Arab Emirates Dirham": "Namibian Dollar"
+    "code": "MYR",
+    "name": "Malaysian Ringgit"
   },
   {
-    "AED": "NGN",
-    "United Arab Emirates Dirham": "Nigerian Naira"
+    "code": "NAD",
+    "name": "Namibian Dollar"
   },
   {
-    "AED": "NIO",
-    "United Arab Emirates Dirham": "Nicaraguan Córdoba"
+    "code": "NGN",
+    "name": "Nigerian Naira"
   },
   {
-    "AED": "NOK",
-    "United Arab Emirates Dirham": "Norwegian Krone"
+    "code": "NIO",
+    "name": "Nicaraguan Córdoba"
   },
   {
-    "AED": "NPR",
-    "United Arab Emirates Dirham": "Nepalese Rupee"
+    "code": "NOK",
+    "name": "Norwegian Krone"
   },
   {
-    "AED": "NZD",
-    "United Arab Emirates Dirham": "New Zealand Dollar"
+    "code": "NPR",
+    "name": "Nepalese Rupee"
   },
   {
-    "AED": "OMR",
-    "United Arab Emirates Dirham": "Omani Rial"
+    "code": "NZD",
+    "name": "New Zealand Dollar"
   },
   {
-    "AED": "PEN",
-    "United Arab Emirates Dirham": "Peruvian Nuevo Sol"
+    "code": "OMR",
+    "name": "Omani Rial"
   },
   {
-    "AED": "PHP",
-    "United Arab Emirates Dirham": "Philippine Peso"
+    "code": "PEN",
+    "name": "Peruvian Nuevo Sol"
   },
   {
-    "AED": "PKR",
-    "United Arab Emirates Dirham": "Pakistani Rupee"
+    "code": "PHP",
+    "name": "Philippine Peso"
   },
   {
-    "AED": "PLN",
-    "United Arab Emirates Dirham": "Polish Zloty"
+    "code": "PKR",
+    "name": "Pakistani Rupee"
   },
   {
-    "AED": "PYG",
-    "United Arab Emirates Dirham": "Paraguayan Guarani"
+    "code": "PLN",
+    "name": "Polish Zloty"
   },
   {
-    "AED": "QAR",
-    "United Arab Emirates Dirham": "Qatari Rial"
+    "code": "PYG",
+    "name": "Paraguayan Guarani"
   },
   {
-    "AED": "RON",
-    "United Arab Emirates Dirham": "Romanian Leu"
+    "code": "QAR",
+    "name": "Qatari Rial"
   },
   {
-    "AED": "RSD",
-    "United Arab Emirates Dirham": "Serbian Dinar"
+    "code": "RON",
+    "name": "Romanian Leu"
   },
   {
-    "AED": "RUB",
-    "United Arab Emirates Dirham": "Russian Ruble"
+    "code": "RSD",
+    "name": "Serbian Dinar"
   },
   {
-    "AED": "SAR",
-    "United Arab Emirates Dirham": "Saudi Riyal"
+    "code": "RUB",
+    "name": "Russian Ruble"
   },
   {
-    "AED": "SEK",
-    "United Arab Emirates Dirham": "Swedish Krona"
+    "code": "SAR",
+    "name": "Saudi Riyal"
   },
   {
-    "AED": "SGD",
-    "United Arab Emirates Dirham": "Singapore Dollar"
+    "code": "SEK",
+    "name": "Swedish Krona"
   },
   {
-    "AED": "SVC",
-    "United Arab Emirates Dirham": "Salvadoran Colón"
+    "code": "SGD",
+    "name": "Singapore Dollar"
   },
   {
-    "AED": "THB",
-    "United Arab Emirates Dirham": "Thai Baht"
+    "code": "SVC",
+    "name": "Salvadoran Colón"
   },
   {
-    "AED": "TND",
-    "United Arab Emirates Dirham": "Tunisian Dinar"
+    "code": "THB",
+    "name": "Thai Baht"
   },
   {
-    "AED": "TRY",
-    "United Arab Emirates Dirham": "Turkish Lira"
+    "code": "TND",
+    "name": "Tunisian Dinar"
   },
   {
-    "AED": "TWD",
-    "United Arab Emirates Dirham": "New Taiwan Dollar"
+    "code": "TRY",
+    "name": "Turkish Lira"
   },
   {
-    "AED": "TZS",
-    "United Arab Emirates Dirham": "Tanzanian Shilling"
+    "code": "TWD",
+    "name": "New Taiwan Dollar"
   },
   {
-    "AED": "UAH",
-    "United Arab Emirates Dirham": "Ukrainian Hryvnia"
+    "code": "TZS",
+    "name": "Tanzanian Shilling"
   },
   {
-    "AED": "UGX",
-    "United Arab Emirates Dirham": "Ugandan Shilling"
+    "code": "UAH",
+    "name": "Ukrainian Hryvnia"
   },
   {
-    "AED": "USD",
-    "United Arab Emirates Dirham": "US Dollar"
+    "code": "UGX",
+    "name": "Ugandan Shilling"
   },
   {
-    "AED": "UYU",
-    "United Arab Emirates Dirham": "Uruguayan Peso"
+    "code": "USD",
+    "name": "US Dollar"
   },
   {
-    "AED": "UZS",
-    "United Arab Emirates Dirham": "Uzbekistan Som"
+    "code": "UYU",
+    "name": "Uruguayan Peso"
   },
   {
-    "AED": "VEF",
-    "United Arab Emirates Dirham": "Venezuelan Bolívar (2008-2018)"
+    "code": "UZS",
+    "name": "Uzbekistan Som"
   },
   {
-    "AED": "VES",
-    "United Arab Emirates Dirham": "Venezuelan Bolívar"
+    "code": "VEF",
+    "name": "Venezuelan Bolívar (2008-2018)"
   },
   {
-    "AED": "VND",
-    "United Arab Emirates Dirham": "Vietnamese Dong"
+    "code": "VES",
+    "name": "Venezuelan Bolívar"
   },
   {
-    "AED": "XOF",
-    "United Arab Emirates Dirham": "CFA Franc BCEAO"
+    "code": "VND",
+    "name": "Vietnamese Dong"
   },
   {
-    "AED": "ZAR",
-    "United Arab Emirates Dirham": "South African Rand"
+    "code": "XOF",
+    "name": "CFA Franc BCEAO"
+  },
+  {
+    "code": "ZAR",
+    "name": "South African Rand"
   }
 ]
