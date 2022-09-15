@@ -1,3 +1,6 @@
 {
-  "CURRENCYS": "/currencys"
+  "CURRENCYS": {
+    "LIST": "/currencys",
+    "GET": "/currencys/get"
+  }
 }
