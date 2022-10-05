@@ -3,7 +3,9 @@ import _ from "lodash";
 import jwt from "jsonwebtoken";
 
 export const generateAccessToken = (params: any) => {
-  return jwt.sign(params, process.env.TOKEN_SECRET as jwt.Secret, {
+  const { TOKEN_SECRET } = process.env;
+
+  return jwt.sign(params, TOKEN_SECRET as jwt.Secret, {
     expiresIn: "1m",
   });
 };
@@ -13,6 +15,7 @@ export const authenticateToken = (
   res: Response,
   next: NextFunction
 ) => {
+  const { TOKEN_SECRET } = process.env;
   const header = req.headers.authorization;
   const token = header && header.split(" ")[1];
 
@@ -23,7 +26,7 @@ export const authenticateToken = (
     });
   }
 
-  jwt.verify(token, process.env.TOKEN_SECRET as jwt.Secret, (err) => {
+  jwt.verify(token, TOKEN_SECRET as jwt.Secret, (err) => {
     if (err) {
       return res
         .status(403)

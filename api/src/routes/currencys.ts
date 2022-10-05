@@ -1,11 +1,11 @@
 import { Request, Response, Router } from "express";
 import currencys from "../../currencys.json";
 import PATH from "../../paths.json";
-import logger from "../utils/logger";
+import logger from "../utils/logger-util";
 import path from "path";
 import _ from "lodash";
 import { Currency } from "../../typings";
-import { generateAccessToken, authenticateToken } from "../utils/access_token";
+import { generateAccessToken, authenticateToken } from "../utils/jwt-util";
 
 const router: Router = Router();
 
