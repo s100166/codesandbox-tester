@@ -1,6 +1,6 @@
 import express from "express";
 import currencysRoute from "./routes/currencys";
-import logger from "./utils/logger";
+import logger from "./utils/logger-util";
 
 const app = express();
 
