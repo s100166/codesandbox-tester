@@ -1,9 +1,9 @@
-import axios, { AxiosError, AxiosResponse } from "axios";
+import axios, { AxiosResponse } from "axios";
 import PATH from "../../api/paths.json";
 import { API } from "../../api/typings";
 
 const getCurrencys = async (): Promise<API[]> => {
-  const APIs: API[] = [];
+  const currencys: API[] = [];
   const { API_URL } = process.env;
 
   try {
@@ -12,17 +12,17 @@ const getCurrencys = async (): Promise<API[]> => {
     );
 
     if (response.status === 200) {
-      APIs.push(...response.data);
+      currencys.push(...response.data);
     }
   } catch (err) {
     console.error(err);
   }
 
-  return APIs;
+  return currencys;
 };
 
 const getCurrency = async (code: string): Promise<API> => {
-  const APIs: API[] = [];
+  const currencys: API[] = [];
   const { API_URL } = process.env;
 
   try {
@@ -32,13 +32,13 @@ const getCurrency = async (code: string): Promise<API> => {
     );
 
     if (response.status === 200) {
-      APIs.push(response.data);
+      currencys.push(response.data);
     }
   } catch (err) {
     console.error(err);
   }
 
-  return Object.assign({}, ...APIs);
+  return Object.assign({}, ...currencys);
 };
 
 (async () => {
